@@ -2,6 +2,7 @@
 
 This repository contains implementations of various neural networks from scratch. (without using ML and DL Libaries)
 
+
 Each implementation is designed to provide a fundamental understanding of how these networks work. 
 
 The implementations cover a range of neural network architectures and concepts.
